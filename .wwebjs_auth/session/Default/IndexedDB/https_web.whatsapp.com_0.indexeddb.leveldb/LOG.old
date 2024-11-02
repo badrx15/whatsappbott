@@ -1,0 +1,15 @@
+2024/10/31-01:36:52.036 a72c Reusing MANIFEST C:\Users\badreddin\Desktop\wwebjs-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/31-01:36:52.037 a72c Recovering log #310
+2024/10/31-01:36:52.175 a72c Reusing old log C:\Users\badreddin\Desktop\wwebjs-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000310.log 
+2024/10/31-01:36:56.899 cd58 Level-0 table #319: started
+2024/10/31-01:36:56.931 cd58 Level-0 table #319: 991079 bytes OK
+2024/10/31-01:36:56.932 cd58 Delete type=0 #310
+2024/10/31-01:36:56.933 cd58 Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/31-01:36:56.974 cb3c Compacting 1@1 + 5@2 files
+2024/10/31-01:36:57.140 cb3c Generated table #320@1: 53286 keys, 2213141 bytes
+2024/10/31-01:36:57.310 cb3c Generated table #321@1: 47366 keys, 2221552 bytes
+2024/10/31-01:36:57.431 cb3c Generated table #322@1: 49989 keys, 2213753 bytes
+2024/10/31-01:36:57.542 cb3c Generated table #323@1: 50088 keys, 2200517 bytes
+2024/10/31-01:36:57.662 cb3c Generated table #324@1: 61385 keys, 1278930 bytes
+2024/10/31-01:36:57.662 cb3c Compacted 1@1 + 5@2 files => 10127893 bytes
+2024/10/31-01:36:57.663 cb3c compacted to: files[ 0 0 5 0 0 0 0 ]

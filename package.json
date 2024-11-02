@@ -1,0 +1,22 @@
+{
+  "name": "wwebjs-bot",
+  "version": "1.0.0",
+  "description": "Whatsapp bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "openai": "^4.0.0",
+    "puppeteer": "^22.8.2",
+    "puppeteer-core": "^23.6.1",
+    "qrcode-terminal": "^0.12.0",
+    "sentiment": "^5.0.2",
+    "whatsapp-web.js": "^1.26.0",
+    "wwebjs-bot": "file:"
+  }
+}

@@ -1,0 +1,6 @@
+2024/10/31-01:36:51.358 b930 Reusing MANIFEST C:\Users\badreddin\Desktop\wwebjs-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/10/31-01:36:51.359 b930 Recovering log #4
+2024/10/31-01:36:51.359 b930 Reusing old log C:\Users\badreddin\Desktop\wwebjs-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2024/10/31-01:37:55.176 cb3c Level-0 table #8: started
+2024/10/31-01:37:55.181 cb3c Level-0 table #8: 15282 bytes OK
+2024/10/31-01:37:55.183 cb3c Delete type=0 #4
